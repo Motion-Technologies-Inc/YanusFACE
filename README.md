@@ -1,4 +1,4 @@
-# YanusFACE v1.0.1
+# YanusFACE v1.0.3
 
 ## Description
 YanusFACE is an innovative plugin for Autodesk Maya designed to enhance the workflow with BlendShapes and automate related processes.

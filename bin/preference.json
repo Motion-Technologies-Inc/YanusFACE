@@ -1,0 +1,29 @@
+{
+    "main_parameters": {
+        "selected_expression": "BS_FC_expression",
+        "object_group_name": "BS_FC_G",
+        "CTRL_group_name": "headGui_grp",
+        "object_name": "BS_FC",
+        "ctrl_suffix": "CTRL_",
+        "ctrl_parent": "FRM_",
+        "access_status": false,
+        "pass_list": [
+            "CTRL_L_mouth_lipsPressD",
+            "CTRL_R_mouth_lipsPressD",
+            "CTRL_convergenceSwitch",
+            "ctrlBoxPhonemes_M",
+            "ctrlBoxEmotions_M"
+        ]
+    },
+    "reset_parameters": {
+        "selected_expression": null,
+        "object_group_name": "BS_FC_G",
+        "CTRL_group_name": "headGui_grp",
+        "object_name": "BS_FC",
+        "ctrl_suffix": "CTRL_",
+        "ctrl_parent": "FRM_"
+    },
+    "license_parameters": {
+        "license_key": ""
+    }
+}
